@@ -1,4 +1,4 @@
-'''Makes a checkbook that tracks balance inputs and withdraws over time   '''
+'''Makes a checkbook that tracks balance inputs and withdraws over time'''
 
 import os
 import regex as re
