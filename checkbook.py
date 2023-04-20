@@ -6,6 +6,7 @@ import regex as re
 ############################################## helper functions for printing messages to the user as each stage of the app##########################################################
 
 def print_open_text():
+    
 
     print()
     print("You have opened the Apature Science account tracker!")
